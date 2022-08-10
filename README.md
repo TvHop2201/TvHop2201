@@ -80,7 +80,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/thanh.no.234" target="blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" alt="facebook" />
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" alt="facebook" width="30" />
   </a>
   <a href="https://www.youtube.com/c/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
