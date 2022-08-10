@@ -80,19 +80,19 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/thanh.no.234" target="blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" alt="facebook" width="30" />
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-256.png" alt="facebook" width="60" />
   </a>
   <a href="https://www.youtube.com/c/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="youtube" />
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" alt="youtube" width="60" />
   </a>
   <a href="https://www.linkedin.com/in/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="linkedin" width="60" />
   </a>
   <a href="https://instagram.com/tranhop2201" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="instagram"  width="60" />
   </a>
   <a href="mailto:muc.tvh.2201@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" alt="email" width="60" />
   </a>
 </div>
 
